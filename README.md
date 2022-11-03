@@ -3,6 +3,6 @@
 Now & Bio ✨<br/>
 🏢 I'm currently working at <a href="https://www.juntossomosmais.com.br/">Juntos Somos Mais</a><br/>
 ⚙️ I use daily: .cs, .cp, .go, .js, .yaml<br/>
-🌱 Learning about Clean Architecture<br/>
+🌱 Learning about RabbitMQ<br/>
 💬 Ping me about development, dotnet, T-Sql <br/>
 ⚡️ I love jiu-jitsu 🥋 and agriculture 👨‍🌾 <br/>
